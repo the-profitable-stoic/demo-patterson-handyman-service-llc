@@ -1,0 +1,612 @@
+{
+  "business": {
+    "name": "Patterson Handyman Service LLC",
+    "phone": "+15096711881",
+    "category": "handyman service",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Seattle's Trusted Handyman",
+      "heroSubline": "Reliable repairs and expert home maintenance. Serving Seattle and the Eastside with pride.",
+      "aboutTitle": "Your Seattle Handyman Experts",
+      "aboutText": [
+        "Patterson Handyman Service LLC was founded over a decade ago with a simple mission: to provide honest, reliable handyman services to the residents of Seattle. We saw a need for skilled professionals who understood the unique challenges of maintaining homes in the Pacific Northwest.",
+        "Our approach is straightforward: clear communication, meticulous workmanship, and a commitment to exceeding your expectations. We treat every project, big or small, with the same level of care and attention to detail.",
+        "We're proud to be a part of the Seattle community, supporting local organizations and striving to make our city a better place to live. We understand the importance of maintaining your home and keeping it in top shape."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Seattle homes and the challenges they face, from moss removal to earthquake retrofitting."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, communicate clearly, and get the job done right the first time."
+        },
+        {
+          "title": "Skilled Professionals",
+          "description": "Our team is comprised of experienced handymen with a wide range of skills and expertise."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide upfront, honest pricing with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Estimate Today!",
+      "ctaSubline": "Let Patterson Handyman Service take care of your home repair needs. Contact us now for a quick and easy quote."
+    },
+    "services": [
+      {
+        "slug": "roof-moss-removal",
+        "name": "Roof Moss Removal",
+        "shortDescription": "Protect your roof from Seattle's relentless moss.",
+        "description": "Seattle's wet climate is a breeding ground for moss, which can wreak havoc on your roof. Moss retains moisture, leading to wood rot and shingle damage. Our roof moss removal service eliminates existing moss and applies preventative treatments to keep it from returning. We use safe, effective methods that won't damage your roofing materials. We understand the unique challenges posed by Seattle's weather and the types of roofing common in the area. Don't let moss compromise the integrity of your roof – call us for a free inspection and protect your investment. We'll assess the extent of the moss growth, recommend the best course of action, and provide a detailed estimate. We handle everything from initial cleaning to applying long-lasting preventative treatments, ensuring your roof stays healthy and moss-free for years to come. Keeping your roof in good shape is crucial for preventing leaks and costly repairs down the line. We'll get the job done efficiently and safely.",
+        "process": [
+          "Step 1: Thorough roof inspection to assess moss growth and identify any existing damage.",
+          "Step 2: Safe and effective moss removal using specialized tools and techniques.",
+          "Step 3: Application of preventative treatment to inhibit future moss growth.",
+          "Step 4: Gutter cleaning to remove any debris and ensure proper drainage."
+        ],
+        "benefits": [
+          "Extends the life of your roof",
+          "Prevents wood rot and shingle damage",
+          "Improves curb appeal",
+          "Protects your home from leaks"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof cleaned?",
+            "answer": "In Seattle's climate, we recommend having your roof inspected and cleaned every 1-2 years to prevent moss buildup."
+          },
+          {
+            "question": "Will moss removal damage my roof?",
+            "answer": "Our team uses gentle, effective methods that won't harm your roofing materials. We prioritize safety and use the right tools for the job."
+          },
+          {
+            "question": "What type of preventative treatment do you use?",
+            "answer": "We use environmentally friendly treatments that are safe for your family, pets, and the environment. Our treatments are proven to inhibit moss growth for an extended period."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Keep your gutters clear and your home protected from water damage.",
+        "description": "Clogged gutters can lead to a host of problems, from water damage to foundation issues. Seattle's frequent rainfall makes regular gutter cleaning essential. Our gutter cleaning service removes leaves, debris, and other obstructions, ensuring proper water flow and preventing costly repairs. We'll clear your gutters and downspouts, inspect them for damage, and make recommendations for any necessary repairs. We understand the importance of maintaining your gutters in good working order. Neglecting them can lead to water overflowing and damaging your siding, landscaping, and even your foundation. Our team will remove all debris and ensure your gutters are functioning properly. We can also install gutter guards to prevent future clogs. We're committed to providing thorough and reliable gutter cleaning services to protect your home from water damage.",
+        "process": [
+          "Step 1: Removal of all debris from gutters and downspouts.",
+          "Step 2: Inspection of gutters for damage and leaks.",
+          "Step 3: Flushing of downspouts to ensure proper water flow.",
+          "Step 4: Bagging and disposal of debris."
+        ],
+        "benefits": [
+          "Prevents water damage to your home",
+          "Protects your foundation",
+          "Prevents basement flooding",
+          "Extends the life of your gutters"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "In Seattle, we recommend cleaning your gutters at least twice a year, in the spring and fall, to remove leaves and debris."
+          },
+          {
+            "question": "Can you repair damaged gutters?",
+            "answer": "Yes, we offer gutter repair services to fix leaks, sagging gutters, and other damage."
+          },
+          {
+            "question": "Do you offer gutter guard installation?",
+            "answer": "Yes, we can install gutter guards to prevent clogs and reduce the need for frequent cleaning."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Fix dents, holes, and cracks with our expert drywall repair service.",
+        "description": "From minor dents to large holes, drywall damage can detract from the appearance of your home. Our drywall repair service provides seamless repairs that blend seamlessly with your existing walls. We handle everything from patching small holes to replacing entire sections of drywall. We'll match the texture and paint to ensure a flawless finish. We understand that drywall damage can be unsightly and can also indicate underlying problems. We'll assess the damage, identify the cause, and provide a lasting repair. Our team of skilled professionals will restore your walls to their original condition. We're committed to providing high-quality drywall repair services that meet your needs and exceed your expectations. We'll leave your walls looking like new.",
+        "process": [
+          "Step 1: Assessment of drywall damage.",
+          "Step 2: Patching of holes and cracks.",
+          "Step 3: Sanding and smoothing of repaired areas.",
+          "Step 4: Priming and painting to match existing walls."
+        ],
+        "benefits": [
+          "Restores the appearance of your walls",
+          "Prevents further damage",
+          "Increases the value of your home",
+          "Provides a smooth, seamless finish"
+        ],
+        "faq": [
+          {
+            "question": "How long does drywall repair take?",
+            "answer": "The time it takes to repair drywall depends on the extent of the damage. Small repairs can be completed in a few hours, while larger repairs may take a day or two."
+          },
+          {
+            "question": "Can you match the texture of my walls?",
+            "answer": "Yes, we are skilled at matching a variety of drywall textures to ensure a seamless repair."
+          },
+          {
+            "question": "Do you offer painting services?",
+            "answer": "Yes, we offer painting services to complete the drywall repair process and ensure a perfect match with your existing walls."
+          }
+        ]
+      },
+      {
+        "slug": "deck-repair",
+        "name": "Deck Repair & Restoration",
+        "shortDescription": "Restore your deck to its former glory with our expert repair services.",
+        "description": "Seattle's weather can take a toll on your deck, leading to wood rot, splintering, and other damage. Our deck repair and restoration service can bring your deck back to life. We handle everything from replacing damaged boards to reinforcing the structure. We'll also clean, stain, and seal your deck to protect it from the elements. We understand the importance of maintaining your deck in good condition. A damaged deck can be a safety hazard and can also detract from the appearance of your home. Our team will assess the damage, recommend the best course of action, and provide a lasting repair. We're committed to providing high-quality deck repair and restoration services that meet your needs and exceed your expectations. We can even help with designing and building new decks.",
+        "process": [
+          "Step 1: Inspection of deck for damage and rot.",
+          "Step 2: Replacement of damaged boards and structural repairs.",
+          "Step 3: Cleaning and staining or sealing of deck.",
+          "Step 4: Inspection of railings and stairs for safety."
+        ],
+        "benefits": [
+          "Extends the life of your deck",
+          "Improves the appearance of your home",
+          "Increases the value of your property",
+          "Provides a safe and enjoyable outdoor space"
+        ],
+        "faq": [
+          {
+            "question": "How often should I seal my deck?",
+            "answer": "In Seattle's climate, we recommend sealing your deck every 1-2 years to protect it from the elements."
+          },
+          {
+            "question": "Can you build a new deck?",
+            "answer": "Yes, we offer deck building services to create a custom outdoor space that meets your needs and budget."
+          },
+          {
+            "question": "What type of wood do you use for deck repairs?",
+            "answer": "We use a variety of high-quality wood, including cedar, redwood, and pressure-treated lumber, depending on your needs and preferences."
+          }
+        ]
+      },
+      {
+        "slug": "interior-painting",
+        "name": "Interior Painting",
+        "shortDescription": "Transform your home with a fresh coat of paint.",
+        "description": "A fresh coat of paint can breathe new life into your home. Our interior painting service provides professional results that will transform your living space. We handle everything from prepping the walls to applying the final coat. We use high-quality paints and materials to ensure a lasting finish. We understand the importance of creating a comfortable and inviting home environment. Our team of skilled painters will work with you to choose the perfect colors and finishes to match your style. We're committed to providing high-quality interior painting services that meet your needs and exceed your expectations. We'll leave your home looking beautiful and refreshed. From Capitol Hill condos to Queen Anne Victorians, we've painted it all.",
+        "process": [
+          "Step 1: Preparation of walls, including patching holes and sanding.",
+          "Step 2: Priming of walls to ensure proper adhesion.",
+          "Step 3: Application of two coats of high-quality paint.",
+          "Step 4: Cleanup and inspection."
+        ],
+        "benefits": [
+          "Enhances the appearance of your home",
+          "Increases the value of your property",
+          "Protects your walls from damage",
+          "Creates a more comfortable and inviting living space"
+        ],
+        "faq": [
+          {
+            "question": "How long does interior painting take?",
+            "answer": "The time it takes to paint a room depends on the size of the room and the number of coats required. We can provide an estimate during our initial consultation."
+          },
+          {
+            "question": "Do you help with color selection?",
+            "answer": "Yes, we can provide color consultation services to help you choose the perfect colors for your home."
+          },
+          {
+            "question": "Do you offer eco-friendly paint options?",
+            "answer": "Yes, we offer a variety of eco-friendly paint options that are low in VOCs and safe for your family and the environment."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-painting",
+        "name": "Exterior Painting",
+        "shortDescription": "Protect and beautify your home with our professional exterior painting service.",
+        "description": "Seattle's weather can be harsh on your home's exterior, leading to fading, peeling, and other damage. Our exterior painting service provides a durable and long-lasting finish that will protect your home from the elements. We handle everything from power washing to applying the final coat. We use high-quality paints and materials that are designed to withstand the Pacific Northwest climate. We understand the importance of maintaining your home's curb appeal. Our team of skilled painters will work with you to choose the perfect colors and finishes to match your style. We're committed to providing high-quality exterior painting services that meet your needs and exceed your expectations. We'll leave your home looking beautiful and protected. We know how to handle the unique challenges of painting Craftsman homes in Tacoma and modern homes in Bellevue.",
+        "process": [
+          "Step 1: Power washing to remove dirt and mildew.",
+          "Step 2: Scraping and sanding loose paint.",
+          "Step 3: Priming of surfaces to ensure proper adhesion.",
+          "Step 4: Application of two coats of high-quality exterior paint."
+        ],
+        "benefits": [
+          "Protects your home from the elements",
+          "Enhances curb appeal",
+          "Increases property value",
+          "Extends the life of your siding"
+        ],
+        "faq": [
+          {
+            "question": "How often should I paint my home's exterior?",
+            "answer": "In Seattle's climate, we recommend painting your home's exterior every 5-7 years to protect it from the elements."
+          },
+          {
+            "question": "Do you offer power washing services?",
+            "answer": "Yes, we offer power washing services to prepare your home's exterior for painting."
+          },
+          {
+            "question": "What type of paint do you use for exterior painting?",
+            "answer": "We use high-quality exterior paints that are designed to withstand the Pacific Northwest climate and resist fading, peeling, and mildew."
+          }
+        ]
+      },
+      {
+        "slug": "furniture-assembly",
+        "name": "Furniture Assembly",
+        "shortDescription": "Hate assembling furniture? We'll do it for you!",
+        "description": "That flatpack furniture can be daunting. Save yourself the time and hassle with our professional furniture assembly service. We assemble everything from IKEA dressers to complex outdoor furniture sets. Our experienced team will ensure your furniture is assembled correctly and safely. We understand that assembling furniture can be frustrating and time-consuming. Our team is equipped with the tools and expertise to handle any furniture assembly project. We're committed to providing a hassle-free experience that meets your needs and exceeds your expectations. We work efficiently and carefully, ensuring that all parts are properly installed and that your furniture is sturdy and safe to use. From small apartments in Belltown to large houses in Magnolia, we'll come to you.",
+        "process": [
+          "Step 1: Unpacking and inventory of all parts.",
+          "Step 2: Assembly according to manufacturer's instructions.",
+          "Step 3: Tightening of all screws and bolts.",
+          "Step 4: Placement of furniture in desired location."
+        ],
+        "benefits": [
+          "Saves you time and hassle",
+          "Ensures furniture is assembled correctly",
+          "Prevents damage to furniture during assembly",
+          "Provides a stress-free experience"
+        ],
+        "faq": [
+          {
+            "question": "What types of furniture do you assemble?",
+            "answer": "We assemble all types of furniture, including beds, dressers, tables, chairs, sofas, and outdoor furniture sets."
+          },
+          {
+            "question": "How much does furniture assembly cost?",
+            "answer": "The cost of furniture assembly depends on the complexity of the furniture and the time required to assemble it. We can provide an estimate based on the type of furniture you need assembled."
+          },
+          {
+            "question": "Do I need to provide the tools?",
+            "answer": "No, we bring all the necessary tools and equipment to assemble your furniture."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC is proud to serve the residents of Bellevue, Washington. We understand the unique needs of Bellevue homeowners, particularly those residing in the upscale homes built between the 1980s and 2000s. Whether you need help with general repairs, maintenance, or upgrades, our skilled handymen are equipped to handle any project, big or small.\n\nWe're experienced in dealing with issues common in Bellevue homes, from weather-related wear and tear due to the persistent rain to interior updates reflecting modern design trends. Trust us to keep your Bellevue home in top condition, ensuring its value and your comfort.",
+        "localContext": "Bellevue features many upscale homes built between the 1980s and 2000s and experiences mild, wet winters.",
+        "nearbyAreas": [
+          "Redmond",
+          "Kirkland",
+          "Seattle"
+        ]
+      },
+      {
+        "city": "Redmond",
+        "slug": "redmond-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC provides reliable handyman services to the Redmond community. With the presence of the Microsoft campus, we understand the fast-paced lifestyle of Redmond residents. We offer efficient and professional services to maintain and improve your home, allowing you to focus on your career and family.\n\nWe're familiar with the housing styles prevalent in the Microsoft campus area and can address any maintenance or repair needs specific to these homes. From leaky faucets to complete remodels, we're here to help you keep your Redmond home in excellent condition.",
+        "localContext": "Redmond is known for being the location of the Microsoft campus and experiences mild, wet winters.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Kirkland",
+          "Sammamish"
+        ]
+      },
+      {
+        "city": "Kirkland",
+        "slug": "kirkland-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC is delighted to offer our services to the residents of Kirkland, Washington. With its stunning waterfront homes on Lake Washington, Kirkland presents unique challenges and opportunities for home maintenance. We're experienced in providing services that protect your home from the elements and enhance its beauty.\n\nWhether you need help with deck repairs, dock maintenance, or general home upkeep, we're here to help. We understand the importance of preserving the value and beauty of your Kirkland home and are committed to providing exceptional service.",
+        "localContext": "Kirkland boasts many waterfront homes on Lake Washington and experiences mild, wet winters.",
+        "nearbyAreas": [
+          "Redmond",
+          "Bellevue",
+          "Woodinville"
+        ]
+      },
+      {
+        "city": "Tacoma",
+        "slug": "tacoma-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC extends its services to the historic city of Tacoma, Washington. We appreciate the unique charm of Tacoma's older homes, particularly the 1900s-20s Craftsman homes in the Stadium District. We're skilled in preserving and restoring the character of these homes while ensuring they meet modern standards of comfort and safety.\n\nFrom repairing original woodwork to updating electrical systems, we're equipped to handle any project in your Tacoma home. We understand the importance of maintaining the historical integrity of your property and are committed to providing quality workmanship.",
+        "localContext": "Tacoma is known for its 1900s-20s Craftsman homes in the Stadium District and experiences mild, wet winters.",
+        "nearbyAreas": [
+          "University Place",
+          "Federal Way",
+          "Puyallup"
+        ]
+      },
+      {
+        "city": "Bothell",
+        "slug": "bothell-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC is proud to serve the community of Bothell, Washington. We understand the needs of homeowners in Bothell's 1980s-90s suburban developments. We provide a wide range of handyman services to maintain and improve your home, ensuring its comfort and value.\n\nFrom general repairs to home improvements, we're here to help you with any project, big or small. We're committed to providing reliable and affordable service to the residents of Bothell.",
+        "localContext": "Bothell features many 1980s-90s suburban developments and experiences mild, wet winters.",
+        "nearbyAreas": [
+          "Woodinville",
+          "Mill Creek",
+          "Kenmore"
+        ]
+      },
+      {
+        "city": "Sammamish",
+        "slug": "sammamish-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC offers comprehensive handyman services to the residents of Sammamish, Washington. Known for its family-friendly atmosphere and beautiful scenery, Sammamish homes require dedicated maintenance to withstand the elements. We're committed to providing top-notch service to keep your home in excellent condition.\n\nFrom deck repairs to interior renovations, we're equipped to handle any project. We understand the importance of maintaining the value and beauty of your Sammamish home and are committed to exceeding your expectations.",
+        "localContext": "Sammamish is a family-friendly city with beautiful scenery and experiences mild, wet winters.",
+        "nearbyAreas": [
+          "Redmond",
+          "Issaquah",
+          "North Bend"
+        ]
+      },
+      {
+        "city": "Woodinville",
+        "slug": "woodinville-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC is pleased to provide handyman services to the residents of Woodinville, Washington. Famous for its wineries and beautiful landscapes, Woodinville homes often require specialized care and maintenance. We're experienced in providing services that enhance the beauty and functionality of your home.\n\nWhether you need help with landscaping projects, deck repairs, or interior improvements, we're here to help. We understand the unique needs of Woodinville homeowners and are dedicated to providing exceptional service.",
+        "localContext": "Woodinville is famous for its wineries and experiences mild, wet winters.",
+        "nearbyAreas": [
+          "Bothell",
+          "Redmond",
+          "Snohomish"
+        ]
+      },
+      {
+        "city": "Issaquah",
+        "slug": "issaquah-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC is dedicated to serving the Issaquah, Washington community with reliable and professional handyman services. Given Issaquah's mix of older and newer homes, we tailor our services to meet the diverse needs of its residents. We're committed to providing quality workmanship and exceptional customer service.\n\nFrom general repairs to complete remodels, we're equipped to handle any project in your Issaquah home. We understand the importance of maintaining the value and comfort of your home and are committed to exceeding your expectations.",
+        "localContext": "Issaquah features a mix of older and newer homes and experiences mild, wet winters.",
+        "nearbyAreas": [
+          "Sammamish",
+          "Renton",
+          "North Bend"
+        ]
+      },
+      {
+        "city": "Renton",
+        "slug": "renton-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC is proud to offer handyman services to the residents of Renton, Washington. With a diverse range of housing options, Renton requires versatile handyman services to address various needs. We're committed to providing affordable and reliable services to the Renton community.\n\nWhether you need help with minor repairs or major renovations, we're here to help. We understand the importance of maintaining your home's value and comfort and are dedicated to providing excellent service.",
+        "localContext": "Renton offers diverse housing options and experiences mild, wet winters.",
+        "nearbyAreas": [
+          "Seattle",
+          "Kent",
+          "Issaquah"
+        ]
+      },
+      {
+        "city": "Shoreline",
+        "slug": "shoreline-wa",
+        "state": "WA",
+        "content": "Patterson Handyman Service LLC is pleased to extend our handyman services to the residents of Shoreline, Washington. With its mix of residential neighborhoods and proximity to the Puget Sound, Shoreline homes benefit from regular maintenance and upkeep. We're committed to providing reliable and affordable services to keep your home in top condition.\n\nFrom gutter cleaning to deck repairs, we're equipped to handle a wide range of handyman services. We understand the importance of protecting your home from the elements and are dedicated to providing quality workmanship.",
+        "localContext": "Shoreline features residential neighborhoods near the Puget Sound, experiencing mild, wet winters.",
+        "nearbyAreas": [
+          "Seattle",
+          "Edmonds",
+          "Lake Forest Park"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "Patterson Handyman Service did an amazing job repairing a large hole in my living room wall. You can't even tell it was ever there! The texture matching was perfect, and the paint job was flawless. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "Good service, prompt and efficient. My gutters were overflowing with leaves, and they cleared them out quickly. One downspout was still a bit clogged, but they came back the next day and fixed it. Would use again.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Deck Repair",
+        "text": "Our deck was in rough shape after the winter. Patterson Handyman Service replaced several rotten boards and stained the entire deck. It looks brand new! They were professional and courteous throughout the entire process.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Roof Moss Removal",
+        "text": "We had a serious moss problem on our roof, and Patterson Handyman Service took care of it quickly and efficiently. They used a safe method that didn't damage our shingles, and the preventative treatment seems to be working well. Excellent service!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Lisa M.",
+        "rating": 4,
+        "service": "Interior Painting",
+        "text": "Patterson Handyman painted our living room and hallway. The quality of the work was excellent, and the painters were very careful to protect our furniture and floors. There was a minor scheduling issue, but they communicated well and resolved it quickly.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Furniture Assembly",
+        "text": "I absolutely hate assembling furniture, so I hired Patterson Handyman to put together a new bed frame for me. They did a fantastic job! The bed is sturdy and well-assembled, and they were in and out in less than an hour. Will definitely use them again.",
+        "date": "2025-05-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Patterson Handyman | Seattle, WA",
+        "description": "Reliable handyman services in Seattle. Repairs, maintenance, and more. Get a free quote today!"
+      },
+      "about": {
+        "title": "About Patterson Handyman Service",
+        "description": "Learn about our Seattle handyman company, our values, and our commitment to quality workmanship."
+      },
+      "services": {
+        "title": "Seattle Handyman Services | Patterson",
+        "description": "Comprehensive handyman services in Seattle: roof moss removal, gutter cleaning, drywall repair, and more."
+      },
+      "contact": {
+        "title": "Contact Patterson Handyman Service",
+        "description": "Get in touch with Patterson Handyman Service for a free estimate on your next home repair project."
+      },
+      "reviews": {
+        "title": "Patterson Handyman Service Reviews",
+        "description": "Read reviews from satisfied customers of Patterson Handyman Service in Seattle, WA."
+      },
+      "service-areas": {
+        "title": "Service Areas | Patterson Handyman",
+        "description": "Patterson Handyman Service provides home repair and maintenance to Seattle and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-moss-removal": "/images/service-roof-moss-removal.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "deck-repair": "/images/service-deck-repair.webp",
+      "interior-painting": "/images/service-interior-painting.webp",
+      "exterior-painting": "/images/service-exterior-painting.webp",
+      "furniture-assembly": "/images/service-furniture-assembly.webp"
+    },
+    "servicesResponsive": {
+      "roof-moss-removal": {
+        "src": "/images/service-roof-moss-removal.webp",
+        "srcset": "/images/service-roof-moss-removal-400w.webp 400w, /images/service-roof-moss-removal-800w.webp 800w, /images/service-roof-moss-removal-1200w.webp 1200w, /images/service-roof-moss-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-repair": {
+        "src": "/images/service-deck-repair.webp",
+        "srcset": "/images/service-deck-repair-400w.webp 400w, /images/service-deck-repair-800w.webp 800w, /images/service-deck-repair-1200w.webp 1200w, /images/service-deck-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "interior-painting": {
+        "src": "/images/service-interior-painting.webp",
+        "srcset": "/images/service-interior-painting-400w.webp 400w, /images/service-interior-painting-800w.webp 800w, /images/service-interior-painting-1200w.webp 1200w, /images/service-interior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-painting": {
+        "src": "/images/service-exterior-painting.webp",
+        "srcset": "/images/service-exterior-painting-400w.webp 400w, /images/service-exterior-painting-800w.webp 800w, /images/service-exterior-painting-1200w.webp 1200w, /images/service-exterior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furniture-assembly": {
+        "src": "/images/service-furniture-assembly.webp",
+        "srcset": "/images/service-furniture-assembly-400w.webp 400w, /images/service-furniture-assembly-800w.webp 800w, /images/service-furniture-assembly-1200w.webp 1200w, /images/service-furniture-assembly.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
